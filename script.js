@@ -15,7 +15,7 @@ document.write
  prompt
  ('where are you from?');
 
-var favfood = prompt("whats your fav food : american ,italian , chinese");
+var favfood = prompt("whats your fav food : american ,italian , chinese")
 
 // favfood=italian
 
