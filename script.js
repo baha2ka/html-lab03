@@ -15,15 +15,13 @@ document.write
  prompt
  ('where are you from?');
 
-
-
- var favfood = prompt("whats your fav food : american ,italian , chinese");
+var favfood = prompt("whats your fav food : american ,italian , chinese");
 
 // favfood=italian
 
-function favfood() {
+//function favfood() {
 
-  while (favfood != "american" && favfood != "italian" && favfood != "chinese") {
+  //while (favfood != "american" && favfood != "italian" && favfood != "chinese") {
 
-    favfood = prompt("please enter on of : american, chinese, italian");
-  }
+    //favfood = prompt("please enter on of : american, chinese, italian");
+  
