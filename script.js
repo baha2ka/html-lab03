@@ -12,16 +12,28 @@ alert
 document.write
 ("<p style='color:red;' > This article was written by a visitor </p>"); 
 
- prompt
- ('where are you from?');
+var country = prompt ('where are you from?');
+console.log(country);
+if(country=="amman,jordan"){alert("hello jordanian")}
+else{ alert("At the moment we do not serve your area")}
 
-var favfood = prompt("whats your fav food : american ,italian , chinese");
 
-// favfood=italian
 
-//function favfood() {
 
-  //while (favfood != "american" && favfood != "italian" && favfood != "chinese") {
+food = prompt ("whats your fav food : american ,italian , chinese")
+console.log(food)
 
-    //favfood = prompt("please enter on of : american, chinese, italian");
+
+
+ 
+
+//  favfood=italian
+
+//  function favfood() {
+
+// while (favfood != "american" && favfood != "italian" && favfood != "chinese") {
+
+// favfood = prompt("please enter on of : american, chinese, italian");
   
+
+
