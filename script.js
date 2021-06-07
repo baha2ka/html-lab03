@@ -17,11 +17,11 @@ console.log(country);
 if(country=="amman,jordan"){alert("hello jordanian")}
 else{ alert("At the moment we do not serve your area")}
 
+var favfood = prompt("whats your fav food : american ,italian , chinese")
 
 
 
 food = prompt ("whats your fav food : american ,italian , chinese")
-console.log(food)
 
 
 
